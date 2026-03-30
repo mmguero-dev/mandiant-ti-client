@@ -24,7 +24,7 @@ setup(
     author_email='chrishultin@google.com',
     description='A Python Client for Mandiant Advantage Threat Intelligence',
     install_requires=[
-        'requests~=2.32.5',
+        'requests~=2.33.1',
         'responses~=0.21.0',
         'python-dateutil',
         'tenacity',

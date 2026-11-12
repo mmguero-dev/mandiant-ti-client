@@ -1,7 +1,5 @@
-requests~=2.33.1
-responses~=0.21.0
+requests~=2.34.2
 python-dateutil
 tenacity
-requests-mock
 vcrpy
 freezegun

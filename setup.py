@@ -16,7 +16,7 @@ from setuptools import setup
 
 setup(
     name='mandiant_ti_client',
-    version='0.1.20',
+    version='0.1.21',
     packages=['mandiant_threatintel'],
     url='',
     license='',
@@ -24,8 +24,7 @@ setup(
     author_email='chrishultin@google.com',
     description='A Python Client for Mandiant Advantage Threat Intelligence',
     install_requires=[
-        'requests~=2.33.1',
-        'responses~=0.21.0',
+        'requests~=2.34.2',
         'python-dateutil',
         'tenacity',
     ],

@@ -163,6 +163,9 @@ with open(file_name, 'wb') as f:
 
 ## Change Log
 
+### 0.1.21 (2026-11-12)
+* Bump `requests` to 2.34.2 and remove unused dependencies
+
 ### 0.1.20 (2023-09-01)
 * Add support to return attack patterns associated with a Campaign
 

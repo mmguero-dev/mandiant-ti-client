@@ -4,15 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "~=2.33.1"
-responses = "~=0.21.0"
+requests = "~=2.34.2"
 python-dateutil = "*"
 tenacity = "*"
-requests-mock = "*"
-vcrpy = "*"
-freezegun = "*"
 
 [dev-packages]
+vcrpy = "*"
+freezegun = "*"
 
 [requires]
 python_version = "3.11"
